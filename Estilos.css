@@ -1,0 +1,29 @@
+
+body {
+    background-color:blue;
+}
+h1 {
+   text-aling: justify;
+   color: red;
+   font-family: consolas;
+   font-size: 300%;
+}
+p {
+   color: white;
+   font-family: Comic Sans MS;
+   text-align: justify;
+   font-size: 75%;
+}
+Text {
+    text-align: justify;
+    color:orange;
+    font-family: courier;
+    font-size: 200%
+}
+
+a{ 
+  color:violet;
+  font-family:comic Sans MS;
+  text-align: justify;
+  front-size:100%;
+}
